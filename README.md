@@ -1,5 +1,4 @@
-<img src="https://readme-typing-svg.herokuapp.com?font=Zen+Dots&size=25&pause=1000&color=FF5F1F&center=true&vCenter=true&width=435&lines=Hello+programming+world!;I'm+Serjay+Parks!;Welcome+to+my+Github;I+love+gaining+new+knowledge;Check+out+my+Repositories!" alt="Typing SVG" />
-
+<a href="https://github.com/SerjayP"><img src="https://readme-typing-svg.herokuapp.com?font=Zen+Dots&size=25&pause=1000&color=FF5F1F&center=true&vCenter=true&width=435&lines=Hello+programming+world!;I'm+Serjay+Parks!;Welcome+to+my+Github;I+love+gaining+new+knowledge;Check+out+my+Repositories!" alt="Typing SVG" /></a>
 
 
 
